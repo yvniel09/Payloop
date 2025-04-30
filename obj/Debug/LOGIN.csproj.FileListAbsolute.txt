@@ -1,0 +1,158 @@
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\Sistema de Nomina.exe.config
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\Sistema de Nomina.exe
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\Sistema de Nomina.pdb
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Buffers.dll
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Formats.Asn1.dll
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Memory.dll
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Numerics.Vectors.dll
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Text.Encodings.Web.dll
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Text.Json.dll
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.ValueTuple.dll
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Buffers.xml
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Formats.Asn1.xml
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Memory.xml
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Numerics.Vectors.xml
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Text.Encodings.Web.xml
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Text.Json.xml
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.ValueTuple.xml
+E:\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.AssemblyReference.cache
+E:\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.FormMainMenu.resources
+E:\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.Login.resources
+E:\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.Properties.Resources.resources
+E:\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.GenerateResource.cache
+E:\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.CoreCompileInputs.cache
+E:\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.CopyComplete
+E:\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema de Nomina.exe
+E:\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema de Nomina.pdb
+E:\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.EmpleadosForm.resources
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.SuggestedBindingRedirects.cache
+E:\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema de Nomina.exe.config
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\Sistema de Nomina.exe.config
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\Sistema de Nomina.exe
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\Sistema de Nomina.pdb
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Buffers.dll
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Formats.Asn1.dll
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Memory.dll
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Numerics.Vectors.dll
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Text.Encodings.Web.dll
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Text.Json.dll
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.ValueTuple.dll
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Buffers.xml
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Formats.Asn1.xml
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Memory.xml
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Numerics.Vectors.xml
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Text.Encodings.Web.xml
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Text.Json.xml
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.ValueTuple.xml
+F:\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.AssemblyReference.cache
+F:\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.SuggestedBindingRedirects.cache
+F:\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema de Nomina.exe.config
+F:\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.EmpleadosForm.resources
+F:\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_nomina.FormMainMenu.resources
+F:\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.Login.resources
+F:\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.Properties.Resources.resources
+F:\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.GenerateResource.cache
+F:\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.CoreCompileInputs.cache
+F:\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.CopyComplete
+F:\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema de Nomina.exe
+F:\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema de Nomina.pdb
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\Sistema de Nomina.exe.config
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\Sistema de Nomina.exe
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\Sistema de Nomina.pdb
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Buffers.dll
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Formats.Asn1.dll
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Memory.dll
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Numerics.Vectors.dll
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Text.Encodings.Web.dll
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Text.Json.dll
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.ValueTuple.dll
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Buffers.xml
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Formats.Asn1.xml
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Memory.xml
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Numerics.Vectors.xml
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Text.Encodings.Web.xml
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Text.Json.xml
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.ValueTuple.xml
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.AssemblyReference.cache
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.SuggestedBindingRedirects.cache
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema de Nomina.exe.config
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.EmpleadosForm.resources
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_nomina.FormMainMenu.resources
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.Login.resources
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.Properties.Resources.resources
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.GenerateResource.cache
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.CoreCompileInputs.cache
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.CopyComplete
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema de Nomina.exe
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema de Nomina.pdb
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.FormInicio.resources
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+E:\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.FormNomina.resources
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.AssemblyReference.cache
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.SuggestedBindingRedirects.cache
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema de Nomina.exe.config
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.EmpleadosForm.resources
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.FormInicio.resources
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_nomina.FormMainMenu.resources
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.FormNomina.resources
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.Login.resources
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.GenerateResource.cache
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema de Nomina.exe
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema de Nomina.pdb
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\Sistema de Nomina.exe.config
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\Sistema de Nomina.exe
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\Sistema de Nomina.pdb
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Buffers.dll
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Formats.Asn1.dll
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Memory.dll
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Numerics.Vectors.dll
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Text.Encodings.Web.dll
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Text.Json.dll
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.ValueTuple.dll
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Buffers.xml
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Formats.Asn1.xml
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Memory.xml
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Numerics.Vectors.xml
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Text.Encodings.Web.xml
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Text.Json.xml
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\bin\Debug\System.ValueTuple.xml
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\Sistema_de_Nomina.Properties.Resources.resources
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.CoreCompileInputs.cache
+D:\Portfolio projects\NOMINA4P\Sistema de Nomina\Sistema de Nomina\obj\Debug\LOGIN.csproj.Up2Date
